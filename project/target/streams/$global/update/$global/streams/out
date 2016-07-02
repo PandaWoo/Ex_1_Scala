@@ -1,17 +1,17 @@
-[0m[[0minfo[0m] [0mUpdating {file:/Users/Andrea/Dropbox%20(Personal)/Programming/repos/Scala/scala_starter_coursera/project/}scala_starter_coursera-build...[0m
-[0m[[0mdebug[0m] [0m:: resolving dependencies :: default#scala_starter_coursera-build;0.1-SNAPSHOT[0m
+[0m[[0minfo[0m] [0mUpdating {file:/Users/Laura/IdeaProjects/Ex_1_Scala/project/}ex_1_scala-build...[0m
+[0m[[0mdebug[0m] [0m:: resolving dependencies :: default#ex_1_scala-build;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
 [0m[[0mdebug[0m] [0m	refresh = false[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scalastyle#scalastyle_2.10;0.8.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scalastyle#scalastyle_2.10;0.8.0 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scalastyle#scalastyle_2.10;0.8.0[0m
 [0m[[0mdebug[0m] [0m	found org.scalastyle#scalastyle_2.10;0.8.0 in sbt-chain[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.5 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
@@ -47,36 +47,36 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scalariform#scalariform_2.10;0.1.7 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scalaj#scalaj-http_2.10;2.2.1 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scalaj#scalaj-http_2.10;2.2.1 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scalaj#scalaj-http_2.10;2.2.1[0m
 [0m[[0mdebug[0m] [0m	found org.scalaj#scalaj-http_2.10;2.2.1 in sbt-chain[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving commons-codec#commons-codec;1.10 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: commons-codec#commons-codec;1.10 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: commons-codec#commons-codec;1.10[0m
 [0m[[0mdebug[0m] [0m	found commons-codec#commons-codec;1.10 in sbt-chain[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.apache.commons#commons-lang3;3.4 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.commons#commons-lang3;3.4 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.4[0m
 [0m[[0mdebug[0m] [0m	found org.apache.commons#commons-lang3;3.4 in sbt-chain[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0[0m
@@ -135,11 +135,11 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scalariform#scalariform_2.10;0.1.7 [compile->master(compile)][0m
@@ -156,24 +156,24 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalariform#scalariform_2.10;0.1.7->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->compile][0m
@@ -218,12 +218,12 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [test][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scalariform#scalariform_2.10;0.1.7 [compile->master(compile)][0m
@@ -240,24 +240,24 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalariform#scalariform_2.10;0.1.7->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->compile][0m
@@ -302,12 +302,12 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'provided'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [provided][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.9 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.9 [provided->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-sbt#sbt;0.13.9 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-sbt#sbt;0.13.9 {provided=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-sbt#sbt;0.13.9[0m
@@ -1167,13 +1167,13 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.9.3 {provided=[default(compile)]} => dependency: org.scala-lang#scala-compiler;2.10.5 {provided=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.3 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'optional'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [optional][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile-internal'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [compile-internal][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [compile-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scalariform#scalariform_2.10;0.1.7 [compile->master(compile)][0m
@@ -1190,24 +1190,24 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalariform#scalariform_2.10;0.1.7->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->compile][0m
@@ -1251,13 +1251,13 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-effect_2.10;7.1.0 [compile->master][0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [optional][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [provided][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.9 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.9 [provided->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.13.9->org.scala-lang#scala-library;2.10.5 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.13.9->org.scala-lang#scala-library;2.10.5 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.13.9->org.scala-lang#scala-library;2.10.5 [compile->compile][0m
@@ -1892,12 +1892,12 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.9.3 {provided=[default(compile)]} => dependency: org.scala-lang#scala-compiler;2.10.5 {provided=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.3 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime-internal'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [runtime-internal][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [runtime-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scalariform#scalariform_2.10;0.1.7 [compile->master(compile)][0m
@@ -1914,24 +1914,24 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalariform#scalariform_2.10;0.1.7->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->compile][0m
@@ -1975,15 +1975,15 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-effect_2.10;7.1.0 [compile->master][0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [optional][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test-internal'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [test-internal][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [test][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [test-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->org.scalariform#scalariform_2.10;0.1.7 [compile->master(compile)][0m
@@ -2000,24 +2000,24 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalariform#scalariform_2.10;0.1.7->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalastyle#scalastyle_2.10;0.8.0->com.typesafe#config;1.2.0 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalastyle#scalastyle_2.10;0.8.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->master(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scalaj#scalaj-http_2.10;2.2.1->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scalaj#scalaj-http_2.10;2.2.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->commons-codec#commons-codec;1.10 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.apache.commons#commons-lang3;3.4 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-core_2.10;7.1.0 [compile->compile][0m
@@ -2061,13 +2061,13 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.sbteclipse#sbteclipse-plugin;4.0.0->org.scalaz#scalaz-effect_2.10;7.1.0 [compile->master][0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [optional][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [provided][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.9 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [provided->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.9 [provided->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.13.9->org.scala-lang#scala-library;2.10.5 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.13.9->org.scala-lang#scala-library;2.10.5 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-sbt#sbt;0.13.9->org.scala-lang#scala-library;2.10.5 [compile->compile][0m
@@ -2702,18 +2702,18 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.9.3 {provided=[default(compile)]} => dependency: org.scala-lang#scala-compiler;2.10.5 {provided=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.3 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.5 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'plugin'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [plugin][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [plugin][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'sources'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [sources][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [sources][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'docs'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [docs][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [docs][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'pom'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [pom][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [pom][0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'scala-tool'[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies for default#scala_starter_coursera-build;0.1-SNAPSHOT [scala-tool][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.5 [scala-tool->default][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.5 [scala-tool->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.5 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#ex_1_scala-build;0.1-SNAPSHOT [scala-tool][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.5 [scala-tool->default][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.5 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.5 [scala-tool->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.5->org.scala-lang#scala-library;2.10.5 [compile->master(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.5->org.scala-lang#scala-library;2.10.5 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.5->org.scala-lang#scala-library;2.10.5 [compile->default][0m
@@ -2731,8 +2731,8 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.5->org.scala-lang#scala-reflect;2.10.5 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-reflect;2.10.5->org.scala-lang#scala-library;2.10.5 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-reflect;2.10.5->org.scala-lang#scala-library;2.10.5 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.5 [scala-tool->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.5 [scala-tool->optional(default)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.5 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.5 [scala-tool->optional(default)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.5->org.scala-lang#jline;2.10.5 [optional->master(*)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#jline;2.10.5 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#jline;2.10.5 {optional=[compile(*), master(*)]}[0m
@@ -2745,11 +2745,11 @@
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.fusesource.jansi#jansi;1.4[0m
 [0m[[0mdebug[0m] [0m	found org.fusesource.jansi#jansi;1.4 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#jline;2.10.5->org.fusesource.jansi#jansi;1.4 [compile->compile(*)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [scala-tool->default][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [scala-tool->runtime][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [scala-tool->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [scala-tool->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies default#scala_starter_coursera-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [scala-tool->optional(default)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [scala-tool->default][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#ex_1_scala-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.5 [scala-tool->optional(default)][0m
 [0m[[0mdebug[0m] [0m	resolved ivy file produced in cache[0m
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scalastyle#scalastyle_2.10;0.8.0!scalastyle_2.10.jar[0m
@@ -2817,19 +2817,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.9!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.5!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 3108ms :: artifacts dl 81ms[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT compile produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT runtime produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT test produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT provided produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT optional produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT compile-internal produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT runtime-internal produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT test-internal produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT plugin produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT sources produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT docs produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT pom produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#scala_starter_coursera-build;0.1-SNAPSHOT scala-tool produced in /Users/Andrea/Dropbox (Personal)/Programming/repos/Scala/scala_starter_coursera/project/target/resolution-cache/reports/default-scala_starter_coursera-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (3108ms resolve - 81ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2915ms :: artifacts dl 66ms[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT compile produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT runtime produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT test produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT provided produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT optional produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT compile-internal produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT runtime-internal produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT test-internal produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT plugin produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT sources produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT docs produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT pom produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#ex_1_scala-build;0.1-SNAPSHOT scala-tool produced in /Users/Laura/IdeaProjects/Ex_1_Scala/project/target/resolution-cache/reports/default-ex_1_scala-build-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (2915ms resolve - 66ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
